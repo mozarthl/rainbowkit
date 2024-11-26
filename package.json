@@ -1,5 +1,5 @@
 {
-  "name": "rainbowkit",
+  "name": "hl-rainbowkit",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -75,6 +75,8 @@
   },
   "packageManager": "pnpm@9.12.0",
   "pnpm": {
-    "onlyBuiltDependencies": ["esbuild"]
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
   }
 }
